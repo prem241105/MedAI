@@ -1,0 +1,44 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.medai:medical-diagnosis >---------------------
+[INFO] Building medical-diagnosis 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ medical-diagnosis ---
+[INFO] Deleting D:\medical-diagnosis\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ medical-diagnosis ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 6 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ medical-diagnosis ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 13 source files with javac [debug release 17] to target\classes
+[INFO] 
+[INFO] --- resources:3.3.1:testResources (default-testResources) @ medical-diagnosis ---
+[INFO] skip non existing resourceDirectory D:\medical-diagnosis\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.11.0:testCompile (default-testCompile) @ medical-diagnosis ---
+[INFO] Changes detected - recompiling the module! :dependency
+[INFO] Compiling 1 source file with javac [debug release 17] to target\test-classes
+[INFO] 
+[INFO] --- surefire:3.1.2:test (default-test) @ medical-diagnosis ---
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- jar:3.3.0:jar (default-jar) @ medical-diagnosis ---
+[INFO] Building jar: D:\medical-diagnosis\target\medical-diagnosis-1.0.0.jar
+[INFO] 
+[INFO] --- spring-boot:3.2.5:repackage (repackage) @ medical-diagnosis ---
+[INFO] Replacing main artifact D:\medical-diagnosis\target\medical-diagnosis-1.0.0.jar with repackaged archive, adding nested dependencies in BOOT-INF/.
+[INFO] The original artifact has been renamed to D:\medical-diagnosis\target\medical-diagnosis-1.0.0.jar.original
+[INFO] 
+[INFO] --- install:3.1.1:install (default-install) @ medical-diagnosis ---
+[INFO] Installing D:\medical-diagnosis\pom.xml to C:\Users\A.Prem sagar\.m2\repository\com\medai\medical-diagnosis\1.0.0\medical-diagnosis-1.0.0.pom
+[INFO] Installing D:\medical-diagnosis\target\medical-diagnosis-1.0.0.jar to C:\Users\A.Prem sagar\.m2\repository\com\medai\medical-diagnosis\1.0.0\medical-diagnosis-1.0.0.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  8.957 s
+[INFO] Finished at: 2026-02-23T11:24:31+05:30
+[INFO] ------------------------------------------------------------------------

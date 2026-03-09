@@ -1,0 +1,23 @@
+﻿[INFO] Scanning for projects...
+[INFO] 
+[INFO] --------------------< com.medai:medical-diagnosis >---------------------
+[INFO] Building medical-diagnosis 1.0.0
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- clean:3.3.2:clean (default-clean) @ medical-diagnosis ---
+[INFO] Deleting D:\medical-diagnosis\target
+[INFO] 
+[INFO] --- resources:3.3.1:resources (default-resources) @ medical-diagnosis ---
+[INFO] Copying 1 resource from src\main\resources to target\classes
+[INFO] Copying 6 resources from src\main\resources to target\classes
+[INFO] 
+[INFO] --- compiler:3.11.0:compile (default-compile) @ medical-diagnosis ---
+[INFO] Changes detected - recompiling the module! :source
+[INFO] Compiling 14 source files with javac [debug release 17] to target\classes
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.402 s
+[INFO] Finished at: 2026-02-23T12:10:39+05:30
+[INFO] ------------------------------------------------------------------------
